@@ -1,0 +1,115 @@
+#navMainWrapper {
+	position:relative;
+}
+#carttopcontainer {
+    background: linear-gradient(to bottom, #fdfdfd 0%, #f1f1f1 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: none;
+    line-height: normal;
+    padding: 10px;
+    position: absolute;
+    right: 15px;
+    top: 54px;
+    width: 300px;
+    z-index: 99;
+	border: 1px solid #EAEAEA;
+}
+#topcartinner {
+	position:relative;
+}
+#topcartlink {
+    float: left;
+    padding: 0;
+}
+.basketcol span.cartTitle {
+	padding-top:7px;
+	font-size:20px;
+	color:#0099CC;
+}
+.cart_table {
+    border-bottom: 1px dashed #EBEBEB;
+    padding: 15px 20px;
+}
+.cart_image img {
+    height: auto;
+    width: 100%;
+}
+.cart_contentbox a:hover {
+	text-decoration:none;
+}
+.cart_contentbox .forward {
+    margin-left: 10px;
+}
+.cart-container .cartBoxTotal {
+    font-size: 13px;
+    height: 60px;
+    margin: 0;
+    padding-left: 5px;
+    text-transform: uppercase;
+}
+.cartTopProductRemove {
+    cursor: pointer;
+    float: left;
+}
+#viewCart {
+	display:inline-block;
+	margin-left:3px;
+}
+#cartMenuTotals {
+	float:left;
+	line-height:35px
+}
+#cartBoxListWrapper {
+	height:auto;
+	color:#888888;
+	overflow:auto
+}
+#cartcontainer {
+	border-left:6px solid #ccc;
+	border-right:6px solid #ccc;
+	padding:5px;
+	width:339px
+}
+#topcartinner {
+	float:left;
+}
+#topcartlink {
+	padding:0;
+	float:left;
+	padding:5px 10px;
+	line-height:normal;
+}
+.cartattr {
+	font-style:italic;
+	background:#f0f0f0;
+	text-transform:capitalize;
+	font-size:11px
+}
+.shopping_cart_link i.fa {
+	margin: 0 5px 0 0;
+	font-size:13px;
+}
+.btn-setting i.fa {
+    font-size: 13px;
+}
+.cartmain > a.button, .topCartCheckout, #viewCart a {
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 11px;
+    margin: 0 0;
+    min-height: 20px;
+    padding: 5px;
+	background: #FF5757;
+	font-weight: 600;
+}
+.cartmain a.button:hover, .topCartCheckout:hover {
+	color:#FFFFFF;
+}
+.basketcol > span {
+    display: block;
+}
+a, a:active, a:focus {
+	text-decoration: none;	
+}
+a:focus {
+	color: #7E7E7E;
+}

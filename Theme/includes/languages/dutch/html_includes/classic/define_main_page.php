@@ -1,0 +1,3 @@
+<a href="http://www.lulu.com/content/466605"><img src="images/large/e-start-book.gif" alt="koop vandaag nog deze engelstalige handleiding" title="Heb jij hem al? Reeds 1000en Zen Cart gebruikers hebben deze gebruikershandleiding gekocht! Koop ook de enige uitgebreide Zen Cart gebruikershandleiding!" /></a>
+<p>Dit bestand staat in<code> /languages/dutch/html_includes/classic/</code></p>
+<p><strong>NB: Maak altijd een reservekopie van<code> /languages/dutch/html_includes/your_template</code></strong></p>

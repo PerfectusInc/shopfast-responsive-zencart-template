@@ -1,0 +1,2 @@
+<p>This file is found in <i>includes/languages/english/html_includes/define_shopping_cart.php</i></p>
+<p>Edit this text (the one you are reading now) in Admin > Tools > Define Pages Editor to write your personal shopping cart message here</p>
